@@ -23,9 +23,6 @@ The system is split into distinct layers to ensure scalability, testability, and
 - **Parameterized SQL:** All queries strictly use parameters to ensure database safety against injection attacks.
 
 ---
-TECH STACK:
-Language: Python 3
-Database: SQLite3
-Tools: Dataclasses, Custom Exceptions, Object-Oriented Programming(OOP)
+
 
 
